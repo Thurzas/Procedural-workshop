@@ -316,3 +316,12 @@ Received Import Request.
 Start importing Assets/Scripts/WeaponVisualContainer.cs using Guid(4df8ec3aa1967d44699608028ed731c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '1ea3ccbb99901460b588c3e13e1f75bc') in 0.0005812 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=6e65189482641ec2bb722b645dcff0a1 DependenciesID=68f86dd93eb7a2ca8a40807f4d16883a StaticDependenciesID=1e21b2d1cf1b9445966abd2204e7532a 
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.00 ms, found 4 plugins.
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7006 unused Assets / (6.6 MB). Loaded Objects now: 7974.
+Memory consumption went from 176.2 MB to 169.7 MB.
+Total: 15.609300 ms (FindLiveObjects: 1.247400 ms CreateObjectMapping: 0.489000 ms MarkObjects: 8.583900 ms  DeleteObjects: 5.287100 ms)
+
+Prepare: number of updated asset objects reloaded= 0
