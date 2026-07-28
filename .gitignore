@@ -1,0 +1,70 @@
+# ========================================== #
+#          Unity gitignore standard          #
+# ========================================== #
+
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[叠]Build/
+/[叠]Builds/
+/[尝]Logs/
+/[𠠀]UserSettings/
+/[Pp]refabs/
+/Assets/Toon Enchanted Meadow/
+
+# Fichiers de configuration de l'éditeur Memory / Cache
+/[MemoryCaptures]/
+
+# Fichiers d'asiles et de crash d'Unity
+sysinfo.txt
+crash*
+
+# Ne pas versionner les builds générés automatiquement
+/[Aa]sset[叠]Bundles/
+
+# ========================================== #
+#      Fichiers de projets d'IDE / Script     #
+# ========================================== #
+# VS/VSC/Rider génèrent leurs propres caches locaux
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# Dossiers d'IDE spécifiques
+.vs/
+.gradle/
+/LocalHistory/
+.idea/
+.vscode/
+
+# ========================================== #
+#    PROTECTION DES ASSETS PAYANTS / PLUGINS   #
+# ========================================== #
+# C'est ici qu'on bloque l'envoi des assets du store pour éviter le piratage
+# ou le dépassement des quotas de stockage Git (LFS).
+# Ajuste les noms des dossiers selon ce que tu télécharges.
+
+/[Aa]ssets/AssetStoreTools*
+/[Aa]ssets/Plugins/
+
+# Exemple : Si tu as un dossier où tu mets tous tes assets tiers achetés :
+# /[Aa]ssets/ThirdParty/
+# /[Aa]ssets/Marketplace/
+
+# ========================================== #
+#         Système d'exploitation             #
+# ========================================== #
+# Fichiers cachés de Windows et macOS
+.DS_Store
+Thumbs.db
+Desktop.ini

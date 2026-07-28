@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0bfada840634c242a7a1d45bcb13169, type: 3}
+  m_Name: Workshop
+  m_EditorClassIdentifier: Assembly-CSharp::GridBuildingData
+  floorPrefab: {fileID: 6508388548793168523, guid: f2aa3b3835a83764dba9dcff1b17fd2e, type: 3}
+  roofPrefab: {fileID: 5803329310990525207, guid: 3b3a47f1e04fabd47b28908a95899be2, type: 3}
+  wallPrefab: {fileID: 8236647594462637475, guid: b593eb584358d1b4fb49976f227e3d09, type: 3}
+  cellSize: 9
+  wallHeight: 7

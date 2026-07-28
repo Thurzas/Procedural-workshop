@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0bfada840634c242a7a1d45bcb13169, type: 3}
+  m_Name: TestBuildAssets
+  m_EditorClassIdentifier: Assembly-CSharp::GridBuildingData
+  floorPrefab: {fileID: 7922288367802483052, guid: e216009a7d893e64cb5fe28bc5ada259, type: 3}
+  roofPrefab: {fileID: 7922288367802483052, guid: e216009a7d893e64cb5fe28bc5ada259, type: 3}
+  wallPrefab: {fileID: 1241706728204784354, guid: dc60d9d9720439146a5205073bc8d305, type: 3}
+  cellSize: 1
+  wallHeight: 0.5
