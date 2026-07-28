@@ -20,7 +20,7 @@ sysinfo.txt
 crash*
 
 # Ne pas versionner les builds générés automatiquement
-/[Aa]sset[叠]Bundles/
+/[Aa]sset[Bb]undles/
 
 # ========================================== #
 #      Fichiers de projets d'IDE / Script     #
