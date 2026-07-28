@@ -8,4 +8,7 @@ Hi, welcome on my little project.
 
 ## Don't expect too much from this repo
 
-    It's still a "work in progess" project, don't expect too much from this project, I'm just trying to understand how Unity works in an Industrial point of view for a job appointment in video game industry.
+```
+It's still a "work in progess" project, don't expect too much from this project.
+I'm just trying to understand how Unity works in an Industrial point of view for a job appointment in video game industry.
+```
